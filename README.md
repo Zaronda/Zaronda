@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zaronda
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming work
+- 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
